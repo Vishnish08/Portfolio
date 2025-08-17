@@ -91,12 +91,11 @@ const PROFILE = {
     "Passionate about building intelligent systems with hands-on experience across NLP, classical ML, and analytics. Strong at end-to-end pipelines data prep, modeling, evaluation, and clear communication. Skilled in deploying models to production, collaborating with cross-functional teams, and continuously learning new technologies. Adept at translating complex data problems into actionable business solutions. Highly interested in Generative AI and its applications for real-world impact.",
   avatar: "/portrait.jpg", // replace with your image path
   location: "Gujarat, IN",
-  phone: "+91 6352562046",
   email: "vishakhamb6@gmail.com",
   socials: {
     github: "https://github.com/Vishnish08",
     linkedin: "https://www.linkedin.com/in/vishakha-bhavsar-/",
-    resume: "/Vishakha_Bhavsar_Resume.pdf",
+    resume: "https://drive.google.com/drive/u/3/home",
   },
   highlights: [
     "AI Model Trainer @ Outlier.AI (Oct 2024 – Jan 2025)",
