@@ -95,7 +95,7 @@ const PROFILE = {
   socials: {
     github: "https://github.com/Vishnish08",
     linkedin: "https://www.linkedin.com/in/vishakha-bhavsar-/",
-    resume: "https://drive.google.com/drive/u/3/home",
+    resume: "https://drive.google.com/file/d/1QmtD5SZqur94pHm5iTlXOYUpmkMnPA9X/view?usp=sharing",
   },
   highlights: [
     "AI Model Trainer @ Outlier.AI (Oct 2024 – Jan 2025)",
